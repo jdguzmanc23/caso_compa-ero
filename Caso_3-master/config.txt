@@ -1,0 +1,6 @@
+clientes=1
+mensajesPorCliente=20
+filtros=1
+servidores=2
+capacidadEntrada=10
+capacidadEntrega=20

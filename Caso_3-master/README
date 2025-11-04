@@ -1,0 +1,4 @@
+# Caso 3 - Comunicación Cliente/Servidor en Java
+
+Este proyecto implementa un sistema concurrente de **clientes y servidores** en Java, donde múltiples clientes envían mensajes a varios servidores que los procesan simultáneamente.  
+El objetivo es modelar la comunicación asíncrona, sincronización y finalización controlada entre procesos concurrentes.
